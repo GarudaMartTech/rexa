@@ -1,0 +1,20 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /404/
+Disallow: /500/
+
+
+Allow: /luxury-appliances/
+Allow: /small-appliances/
+Allow: /about-us/
+Allow: /contact-us/
+Allow: /privacy-policy/
+Allow: /terms-conditions/
+Allow: /return-refunds/
+Allow: /disclaimer/
+
+
+
+Sitemap: https://www.gplusindia.com/sitemap.xml
+
+
