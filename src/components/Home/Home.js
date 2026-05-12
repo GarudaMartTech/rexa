@@ -1,5 +1,5 @@
 import React from "react";
-// import SEO from "../SEO"; // ✅ import reusable SEO component
+// ✅ import reusable SEO component
 
 import Header from "../Header/Header";
 // import Banner from "../WashingMachine/Banner";
@@ -21,10 +21,7 @@ const Home = () => {
   return (
     <div>
       {/* ✅ SEO Meta Tags */}
-      {/* <SEO
-        title="Gplus India|home appliances products manufacturers in India"
-        description="Shop the latest electronics and home appliances including Air Conditioners, Washing Machines, LED TVs, Air Coolers, Mixer Grinders and more at G-Plus."
-      /> */}
+     
 
       {/* <SelectProduct /> */}
       <Header />
