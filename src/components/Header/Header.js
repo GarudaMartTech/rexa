@@ -59,7 +59,7 @@ const Header = () => {
       >
         <div className="flex items-center justify-center">
           <img
-            src={require("../image/text.jpeg")}
+            src={require("../image/name.png")}
             alt="Company Name"
             loading="eager"
             className="
